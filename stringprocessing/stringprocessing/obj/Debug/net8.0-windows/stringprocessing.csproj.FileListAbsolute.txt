@@ -1,0 +1,17 @@
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\bin\Debug\net8.0-windows\stringprocessing.exe
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\bin\Debug\net8.0-windows\stringprocessing.deps.json
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\bin\Debug\net8.0-windows\stringprocessing.runtimeconfig.json
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\bin\Debug\net8.0-windows\stringprocessing.dll
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\bin\Debug\net8.0-windows\stringprocessing.pdb
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.Form1.resources
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.AssemblyInfo.cs
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.dll
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\refint\stringprocessing.dll
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.pdb
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.genruntimeconfig.cache
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\ref\stringprocessing.dll
+C:\Users\hoang\source\repos\stringprocessing\stringprocessing\obj\Debug\net8.0-windows\stringprocessing.Properties.Resources.resources
